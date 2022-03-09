@@ -294,11 +294,11 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>noID</platformTool>
         <languageToolchain>XC16</languageToolchain>
-        <languageToolchainVersion>1.70</languageToolchainVersion>
+        <languageToolchainVersion>2.00</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.5.181"/>
+        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.6.205"/>
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
